@@ -3,5 +3,8 @@
 - Select **VPC and more**.
 - Name: `project-vpc`
 - CIDR Block: `10.0.0.0/16`
+  [Create VPC](screenshots/Screenshot 2025-07-18 163436.png)
+  
+
 
 
