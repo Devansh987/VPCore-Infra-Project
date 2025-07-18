@@ -3,7 +3,7 @@
 - Select **VPC and more**.
 - Name: `project-vpc`
 - CIDR Block: `10.0.0.0/16`
-[CreateVPC](screenshots/create-vpc.png)
+![CreateVPC](screenshots/create-vpc.png)
   
 
 
