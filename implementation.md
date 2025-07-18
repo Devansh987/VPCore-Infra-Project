@@ -3,7 +3,9 @@
 - Select **VPC and more**.
 - Name: `project-vpc`
 - CIDR Block: `10.0.0.0/16`
-  
+
+![CreateVPC](screenshots/create-vpc2.png)  
+
 ![CreateVPC](screenshots/create-vpc.png)
 
 ## Step 2: Create Public and Private Subnets
@@ -63,7 +65,6 @@
 
 ![ALB](screenshots/alb4.png)
 
-![ALB](screenshots/alb.png)
 
 ## Step 6: Test Load Balancer DNS
 - Copy the ALB DNS name.
